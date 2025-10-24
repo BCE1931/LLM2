@@ -1,10 +1,20 @@
 # 🎧 Summary LLM
 
 ## 🎬 Demo Video  
-📹 **[Watch the Demo (Google Drive)](https://drive.google.com/file/d/1Fe1XurV8zKDsAI-IKLINJhT_FuQdMfwy/view?usp=sharing)**  
+📹 **[Watch the Demo (Google Drive)](https://drive.google.com/file/d/1u27c3Zx2kiLO1FglhfD6mdLCFhppAU8A/view?usp=sharing)**  
 > 🎥 Click the link above to view a complete walkthrough of the application.
 
 ---
+
+### 🧠 To Run Locally  
+To run this project on your local system, **replace the `Secrets.jsx` file** with the one provided in the link below 👇  
+📄 **[Download Secrets.jsx (Google Drive)](https://drive.google.com/file/d/1kwbzSrErjMeSRUnOUPFxsve32sgPN15w/view?usp=sharing)**  
+
+> The contents in this Drive file include all necessary credentials and configuration values required for the project to run locally.  
+> ⚠️ Use it only for testing purposes and do not push it to GitHub.
+
+---
+
 
 An AI-powered **audio summarization web app** that converts spoken or recorded content into concise, readable summaries — powered by **Microsoft Azure Cognitive Services**, **Azure OpenAI**, and modern full-stack technologies.
 
@@ -51,4 +61,5 @@ An AI-powered **audio summarization web app** that converts spoken or recorded c
 ```bash
 git clone https://github.com/BCE1931/LLM2.git
 cd frontend
+
 
