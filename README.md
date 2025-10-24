@@ -31,8 +31,7 @@ An AI-powered **audio summarization web app** that converts spoken or recorded c
 ---
 
 ## 🔗 Live Project
-🚀 **[View Live App → https://summary-llm-1.vercel.app/](https://summary-llm-1.vercel.app/)**  
-(Alternate link: [https://llm-2-topaz.vercel.app/](https://llm-2-topaz.vercel.app/))
+🚀 **[View Live App → https://summary-llm-1.vercel.app/](https://llm-2-topaz.vercel.app/)**  
 
 ---
 
@@ -52,3 +51,4 @@ An AI-powered **audio summarization web app** that converts spoken or recorded c
 ```bash
 git clone https://github.com/BCE1931/LLM2.git
 cd frontend
+
