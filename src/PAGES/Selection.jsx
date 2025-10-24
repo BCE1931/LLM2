@@ -17,7 +17,7 @@ import {
   openaiEndpoint,
   openaiKey,
   deploymentName,
-} from "./Secrets";
+} from "../../Secrets";
 const ffmpeg = createFFmpeg({ log: true });
 
 // 🧩 your Azure credentials
